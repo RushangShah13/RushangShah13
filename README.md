@@ -62,8 +62,6 @@
 
  [![Rushang's github stats](https://github-readme-stats.vercel.app/api?username=RushangShah13&theme=buefy&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RushangShah13&theme=buefy&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RushangShah13&theme=buefy&layout=compact&langs_count=5&&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -77,5 +75,4 @@
 [twitter]: https://twitter.com/Rushang70766818
 [instagram]: https://www.instagram.com/rushang2413/
 [linkedin]: https://www.linkedin.com/in/rushang-shah13/
-[photoes]: https://github.com/badges/shields
 [mail]: mailto:rushangshah2413@gmail.com
