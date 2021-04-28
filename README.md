@@ -21,10 +21,18 @@
 
 
 ## :email: Find me on:
-[<img align="left" alt="Rushang's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rusahng's LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rushang's mail | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-<br />
+<!--
+[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
+
+<p align="center">
+ <a href="https://github.com/RushangShah13" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/charalambos-ioannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cioannou1997@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+</p>
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -46,11 +54,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
-
 <br />
 
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
