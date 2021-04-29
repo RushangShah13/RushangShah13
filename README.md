@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Rushang 😀
 
-## 🎓 I'm an MS Computer Science Student at Syracuse University 🍊
+## 🎓 I'm a MS Computer Science Student at Syracuse University 🍊
 
 - 📚 I'm currently learning Flutter  
 - 👯 I’m looking for full-time opportunities in Software Development and Full stack Development.
