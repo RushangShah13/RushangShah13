@@ -1,19 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rushang Shah</h1>
+# Hi 👋, I'm Rushang Shah
 
-<h3 align="center">🚀 Software Engineer | Full-Stack Systems | AI/LLM | Distributed Systems</h3>
+### 🚀 Software Engineer | Full-Stack Systems | AI/LLM | Distributed Systems
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rushang-shah13/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rushang%20Shah-blue?logo=linkedin">
-  </a>
-  <a href="mailto:rushangshah2413@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RushangShah13&color=blue" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushang%20Shah-blue?logo=linkedin)](https://www.linkedin.com/in/rushang-shah13/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:rushangshah2413@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=RushangShah13&color=blue)
 
 ---
 
@@ -26,22 +17,44 @@
 
 ---
 
-## 🚀 What I Work On
+## 🧠 Core Strengths
 
-- 🧩 **Full-Stack SPA Architecture** (TypeScript, modern UI systems)  
-- ⚙️ **Distributed Backend Systems** (Java, REST APIs, microservices)  
-- 🤖 **AI/LLM Systems** (RAG pipelines, prompt engineering, workflow automation)  
-- 📊 **Performance Monitoring & Observability Systems**
+- Distributed Systems  
+- Full-Stack SPA Architecture  
+- Performance Optimization & Observability  
+- AI/LLM Integrations (RAG, Prompt Engineering)  
+- REST APIs & Data-Heavy Applications  
+- Legacy System Modernization  
 
 ---
 
-## 📈 Key Impact
+## 📈 Impact Highlights
 
 - 🚀 Built a real-time performance monitoring system → **40% faster issue detection**  
 - 🌍 Designed scalable i18n framework → **20+ languages, 600+ content keys**  
-- 🤖 Developed **LLM-powered automation systems** to reduce manual workflows  
-- ✅ Delivered **85%+ test coverage** for mission-critical systems  
-- 🧱 Modernized legacy systems → improved performance with **zero production regression**
+- 🤖 Developed AI-powered workflow automation using **LLM/RAG**  
+- ✅ Delivered **85%+ test coverage** for critical systems  
+- 🧱 Modernized legacy systems with **zero production regression**
+
+---
+
+## 🏗️ Architecture Mindset
+Users / Clients
+│
+▼
+Frontend SPA (TypeScript, UI Components, Charts)
+│
+▼
+Backend Services (Java, REST APIs)
+│
+▼
+Data Processing Layer
+├── Monitoring & Alerts
+├── Transaction Pipelines
+└── AI/LLM Automation
+│
+▼
+Databases / Cloud / Enterprise Platform
 
 ---
 
@@ -51,40 +64,49 @@
 Designed a distributed system to process high-volume transactional data and surface real-time insights.
 
 ### 🔹 GenAI Release Notes Assistant
-Built using **RAG + LLMs** to enable contextual search, Q&A, and summarization of enterprise release notes.
+Built using **RAG + LLMs** to enable contextual search, Q&A, and summarization.
 
 ### 🔹 Enterprise SPA Architecture
-Developed scalable frontend systems with localization support across multiple regions.
+Developed scalable frontend systems with strong backend integrations and localization support.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-`JavaScript (TypeScript)` `Python` `Java` `Golang`
+### 💻 Languages
+`TypeScript` `JavaScript` `Python` `Java` `Golang`
 
-**Frontend:**  
+### 🎨 Frontend
 `SPA Architecture` `Component Systems` `Highcharts` `i18n`
 
-**Backend:**  
+### ⚙️ Backend
 `REST APIs` `Distributed Systems` `Microservices`
 
-**AI & ML:**  
+### 🤖 AI / ML
 `LLM Integration` `RAG` `Prompt Engineering` `Vector Embeddings`
 
-**Cloud & Infra:**  
+### ☁️ Cloud & Infra
 `AWS (EC2, Lambda)` `GCP Cloud SQL`
 
-**Databases:**  
+### 🗄️ Databases
 `MySQL` `MongoDB` `NoSQL`
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rushang-shah13/  
 - 📧 Email: rushangshah2413@gmail.com  
 
 ---
 
-⭐️ *Always open to collaborating on scalable systems and AI-driven products*
+## ⭐ Current Focus
+
+- Building scalable full-stack systems  
+- Exploring AI-native product experiences  
+- Improving performance and observability  
+- Open to impactful engineering opportunities  
+
+---
+
+_Always interested in building scalable systems and AI-driven products._
