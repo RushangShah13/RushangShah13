@@ -1,78 +1,90 @@
-## Hi there 👋 My name is Rushang 😀
+<h1 align="center">Hi 👋, I'm Rushang Shah</h1>
 
-## 🎓 I'm a MS Computer Science Student at Syracuse University 🍊.
-
-- 📚 I'm currently learning Flutter  
-- 👯 I’m looking for full-time opportunities in Software Development and Full stack Development.
-- 🥅 2021 Goals: `public function getFutureGoal(): string
-    {
-        return 'To get into place which I have dreamt of.';
-    }`
-- :computer: Most used line of code for java `public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, thanks for dropping by!");
-    }
-}` 
- for python:   `def say_hi(self):
-        print("Hello, thanks for dropping by!")`
- for open source: `git commit -m "Full Commit"` 😉
-- 📫 How to reach me: rushangshah2413@gmail.com
-- 💬 Ask me about anything
-
-
-## :email: Find me on:
-<!--
-[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
+<h3 align="center">🚀 Software Engineer | Full-Stack Systems | AI/LLM | Distributed Systems</h3>
 
 <p align="center">
- <a href="https://github.com/RushangShah13" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/rushang-shah13/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:rushangshah2413@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.linkedin.com/in/rushang-shah13/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rushang%20Shah-blue?logo=linkedin">
+  </a>
+  <a href="mailto:rushangshah2413@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail">
+  </a>
 </p>
 
-
-## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://komarev.com/ghpvc/?username=RushangShah13&color=blue" />
 </p>
-<br />
 
+---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## 💡 About Me
 
- [![Rushang's github stats](https://github-readme-stats.vercel.app/api?username=RushangShah13&theme=buefy&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 💼 Software Engineer with **4+ years of experience** building scalable, enterprise-grade systems  
+- 🏢 Recently worked at **Oracle NetSuite** on platform-level engineering  
+- ⚡ Focused on **Full-Stack Development, Distributed Systems, and AI/LLM integrations**  
+- 🔍 Currently exploring opportunities in **Backend / Full-Stack / Platform / AI Systems**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RushangShah13&theme=buefy&layout=compact&langs_count=5&&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 🚀 What I Work On
 
-</details>
+- 🧩 **Full-Stack SPA Architecture** (TypeScript, modern UI systems)  
+- ⚙️ **Distributed Backend Systems** (Java, REST APIs, microservices)  
+- 🤖 **AI/LLM Systems** (RAG pipelines, prompt engineering, workflow automation)  
+- 📊 **Performance Monitoring & Observability Systems**
 
+---
 
+## 📈 Key Impact
 
+- 🚀 Built a real-time performance monitoring system → **40% faster issue detection**  
+- 🌍 Designed scalable i18n framework → **20+ languages, 600+ content keys**  
+- 🤖 Developed **LLM-powered automation systems** to reduce manual workflows  
+- ✅ Delivered **85%+ test coverage** for mission-critical systems  
+- 🧱 Modernized legacy systems → improved performance with **zero production regression**
 
+---
 
+## 🛠️ Featured Work
 
-[twitter]: https://twitter.com/Rushang70766818
-[instagram]: https://www.instagram.com/rushang2413/
-[linkedin]: https://www.linkedin.com/in/rushang-shah13/
-[mail]: mailto:rushangshah2413@gmail.com
+### 🔹 Performance Monitoring Platform
+Designed a distributed system to process high-volume transactional data and surface real-time insights.
+
+### 🔹 GenAI Release Notes Assistant
+Built using **RAG + LLMs** to enable contextual search, Q&A, and summarization of enterprise release notes.
+
+### 🔹 Enterprise SPA Architecture
+Developed scalable frontend systems with localization support across multiple regions.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+`JavaScript (TypeScript)` `Python` `Java` `Golang`
+
+**Frontend:**  
+`SPA Architecture` `Component Systems` `Highcharts` `i18n`
+
+**Backend:**  
+`REST APIs` `Distributed Systems` `Microservices`
+
+**AI & ML:**  
+`LLM Integration` `RAG` `Prompt Engineering` `Vector Embeddings`
+
+**Cloud & Infra:**  
+`AWS (EC2, Lambda)` `GCP Cloud SQL`
+
+**Databases:**  
+`MySQL` `MongoDB` `NoSQL`
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rushang-shah13/  
+- 📧 Email: rushangshah2413@gmail.com  
+
+---
+
+⭐️ *Always open to collaborating on scalable systems and AI-driven products*
